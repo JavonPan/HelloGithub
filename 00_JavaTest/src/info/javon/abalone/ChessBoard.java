@@ -20,5 +20,7 @@ public class ChessBoard {
 		System.out.println("哈哈");
 		System.out.println("研究中哈");
 		System.out.println("再研究了哈~研究中哈");
+		
+		System.out.println("不错，开始会用了");
 	}
 }
