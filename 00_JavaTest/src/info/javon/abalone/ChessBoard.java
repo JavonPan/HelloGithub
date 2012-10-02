@@ -18,6 +18,6 @@ public class ChessBoard {
 		frame.add(jPanel);
 		
 		System.out.println("哈哈");
-		
+		System.out.println("研究中哈");
 	}
 }
