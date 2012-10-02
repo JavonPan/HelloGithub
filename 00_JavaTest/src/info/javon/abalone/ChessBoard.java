@@ -17,7 +17,7 @@ public class ChessBoard {
 		JPanel jPanel = new JPanel();
 		frame.add(jPanel);
 		
-		
+		System.out.println("哈哈");
 		
 	}
 }
